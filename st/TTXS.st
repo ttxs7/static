@@ -1,0 +1,27 @@
+[{css:[['.st-flow header{'],['text-align: center;'],['background-color: aliceblue;'],['color: grey;'],['padding: 1em;'],['}'],['#avatar{'],['width: 5em;'],['height: 5em;'],['border-radius: 50%;'],['}'],['.card{'],['background-color: #f6f8fa;'],['border-radius: .5em;'],['padding: 1em;'],['margin: 1em;'],['display: block;'],['}'],['.card>.time{'],['color:grey;'],['font-size:.8em;'],['}'],['.card>.desc{'],['font-size:.8em;'],['}']]}]
+[{header:[[{id:'avatar',src:'https://cdn.jsdelivr.net/gh/ttxs7/static@0.1.0/icon.png',img:[[]]}],[{id:'mail',span:[['ttxs@pku.edu.cn']]}]]}]
+[{title:[['TTXS']]}]
+[{level:1,label:'2020',heading:[['2020']]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.0/2020/期末考试第六题.st',target:'_blank',a:[['期末考试第六题'],[{class:'time',span:[['2020-09-18']]},' ',{class:'desc',span:[['A big homework of ode']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2020/从zeta函数到L函数.pdf',target:'_blank',a:[['从zeta函数到L函数'],[{class:'time',span:[['2020-08-30']]},' ',{class:'desc',span:[['A reading report of complex function']]}]]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2020/重对数律.st',target:'_blank',a:[['重对数律'],[{class:'time',span:[['2020-08-01']]},' ',{class:'desc',span:[['A reading report of probability theory']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2020/考虑癌细胞主动运动的肿瘤增长模型.pdf',target:'_blank',a:[['考虑癌细胞主动运动的肿瘤增长模型'],[{class:'time',span:[['2020-06-14']]},' ',{class:'desc',span:[['A team project of mathematical modelling']]}]]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2020/唯一性与直化与连续依赖性.md',target:'_blank',a:[['唯一性与直化与连续依赖性'],[{class:'time',span:[['2020-05-20']]},' ',{class:'desc',span:[['A big homework of ode']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2020/常数独立性.pdf',target:'_blank',a:[['常数独立性'],[{class:'time',span:[['2020-03-01']]},' ',{class:'desc',span:[['A big homework of ode']]}]]}]
+[{level:1,label:'2019',heading:[['2019']]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ShiZhuming/pku-MusicAndMath/article/paper.pdf',target:'_blank',a:[['基于经验和机器学习方法的遗传算法作曲探索'],[{class:'time',span:[['2019-12-16']]},' ',{class:'desc',span:[['A team project of music and math']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/关于第一型积分的简单思考2.pdf',target:'_blank',a:[['关于第一型积分的简单思考2'],[{class:'time',span:[['2019-12-08']]},' ',{class:'desc',span:[['A big homework of mathematical analysis three']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/关于第一型积分的简单思考.pdf',target:'_blank',a:[['关于第一型积分的简单思考'],[{class:'time',span:[['2019-12-01']]},' ',{class:'desc',span:[['A big homework of mathematical analysis three']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ShiZhuming/MathModels/article/article.pdf',target:'_blank',a:[['高压油管压力控制的数学模型'],[{class:'time',span:[['2019-09-15']]},' ',{class:'desc',span:[['CUMCM']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/期末考试第四题续.pdf',target:'_blank',a:[['期末考试第四题续'],[{class:'time',span:[['2019-06-21']]},' ',{class:'desc',span:[['A big homework of mathematical analysis two']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/期末考试第四题.pdf',target:'_blank',a:[['期末考试第四题'],[{class:'time',span:[['2019-06-21']]},' ',{class:'desc',span:[['A big homework of mathematical analysis two']]}]]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/期末考试第五题.pdf',target:'_blank',a:[['期末考试第五题'],[{class:'time',span:[['2019-06-19']]},' ',{class:'desc',span:[['A big homework of mathematical analysis two']]}]]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2019/期末考试三四八题.st',target:'_blank',a:[['期末考试三四八题'],[{class:'time',span:[['2019-01-18']]},' ',{class:'desc',span:[['A big homework of mathematical analysis one']]}]]}]
+[{level:1,label:'2018',heading:[['2018']]}]
+[{class:'card',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2018/导函数的连续性问题.pdf',target:'_blank',a:[['导函数的连续性问题'],[{class:'time',span:[['2018-12-30']]},' ',{class:'desc',span:[['A big homework of mathematical analysis one']]}]]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.0/2018/关于函数复合的一些简单研究.st',target:'_blank',a:[['关于函数复合的一些简单研究'],[{class:'time',span:[['2018-12-03']]},' ',{class:'desc',span:[['A big homework of mathematical analysis one']]}]]}]
+[{class:'card',href:'https://ttxs7.github.io/?src=https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.2/2018/习题课思考题.st',target:'_blank',a:[['习题课思考题'],[{class:'time',span:[['2018-10-25']]},' ',{class:'desc',span:[['Some exercises of mathematical analysis one']]}]]}]
+
+history
+
+0
