@@ -3,7 +3,7 @@
 [{header:[[{id:'avatar',src:'https://cdn.jsdelivr.net/gh/ttxs7/static@0.1.0/icon.png',img:[[]]}],[{id:'mail',span:[['ttxs@pku.edu.cn']]}]]}]
 [{title:[['TTXS']]}]
 [{level:1,label:'2020',heading:[['2020']]}]
-[{name:'期末考试第六题',time:'2020-09-18',desc:'A big homework of ode',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.0/2020/期末考试第六题.st',card:[[]]}]
+[{name:'期末考试第六题',time:'2020-09-18',desc:'A big homework of ode',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2020/期末考试第六题.st',card:[[]]}]
 [{name:'穿越沙漠路径规划的宽度优先搜索模型',time:'2020-09-13',desc:'CUMCM',href:'https://cdn.jsdelivr.net/gh/ShiZhuming/CUMCM2020/article/shumo12.pdf',card:[[]]}]
 [{name:'从zeta函数到L函数',time:'2020-08-30',desc:'A reading report of complex function',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2020/从zeta函数到L函数.pdf',card:[[]]}]
 [{name:'重对数律',time:'2020-08-01',desc:'A reading report of probability theory',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2020/重对数律.st',card:[[]]}]
@@ -21,7 +21,7 @@
 [{name:'期末考试三四八题',time:'2019-01-18',desc:'A big homework of mathematical analysis one',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2019/期末考试三四八题.st',card:[[]]}]
 [{level:1,label:'2018',heading:[['2018']]}]
 [{name:'导函数的连续性问题',time:'2018-12-30',desc:'A big homework of mathematical analysis one',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2018/导函数的连续性问题.pdf',card:[[]]}]
-[{name:'关于函数复合的一些简单研究',time:'2018-12-03',desc:'A big homework of mathematical analysis one',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.0/2018/关于函数复合的一些简单研究.st',card:[[]]}]
+[{name:'关于函数复合的一些简单研究',time:'2018-12-03',desc:'A big homework of mathematical analysis one',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2018/关于函数复合的一些简单研究.st',card:[[]]}]
 [{name:'习题课思考题',time:'2018-10-25',desc:'Some exercises of mathematical analysis one',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.3/2018/习题课思考题.st',card:[[]]}]
 
 history
