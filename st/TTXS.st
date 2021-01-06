@@ -3,7 +3,7 @@
 [{header:[[{id:'avatar',src:'https://cdn.jsdelivr.net/gh/ttxs7/static@0.1.0/icon.png',img:[[]]}],[{id:'mail',span:[['ttxs@pku.edu.cn']]}]]}]
 [{title:[['TTXS']]}]
 [{level:1,label:'2021',heading:[['2021']]}]
-[{name:'Cayley-Bacharach Theorem',time:'2021-01-04',desc:'A reading report of algebraic curves',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.4/2021/Cayley-Bacharach/main.pdf',card:[[]]}]
+[{name:'Cayley-Bacharach Theorem',time:'2021-01-04',desc:'A reading report of algebraic curves',href:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.4/2021/Cayley-Bacharach/main.pdf',card:[[]]}]
 [{level:1,label:'2020',heading:[['2020']]}]
 [{name:'期末考试第六题',time:'2020-09-18',desc:'A big homework of ode',src:'https://cdn.jsdelivr.net/gh/ttxs7/bhws@0.1.4/2020/期末考试第六题.st',card:[[]]}]
 [{name:'穿越沙漠路径规划的宽度优先搜索模型',time:'2020-09-13',desc:'CUMCM',href:'https://cdn.jsdelivr.net/gh/ShiZhuming/CUMCM2020/article/shumo12.pdf',card:[[]]}]
