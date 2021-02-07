@@ -1,0 +1,1 @@
+for file in `ls *.pdf`;do for num in `seq 999`;do num1=`echo $num|awk '{printf("%03d\n",$0)}'`;err=`pdf2svg $file ${file%.*}-$num1.svg $num 2>&1`;if [ -z "$err" ];then continue;else break;fi;done;done
