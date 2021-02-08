@@ -1,0 +1,1 @@
+for file in `ls *.pdf`;do pdf2svg $file ${file%.*}.svg;done
